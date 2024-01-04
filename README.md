@@ -6,6 +6,7 @@ The project only clones the appearence, and not the functionality.
 
 <h2>Further Improvements</h2>
 This project is nowhere near perfect, however, these changes could further help it there:
-- Using more Flexbox
-- Using SVG icons
-- Cleaner code
+
+* Using more Flexbox
+* Using SVG icons
+* Cleaner code
